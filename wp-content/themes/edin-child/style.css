@@ -20,6 +20,10 @@ p {
     font-size: 120%;
 }
 
+a {
+    color: #006633;
+}
+
 .site-header {
     background-color: #006633;
     background-image: url("../../uploads/2020/04/PF_Header.png");
