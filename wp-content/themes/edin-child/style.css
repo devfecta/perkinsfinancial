@@ -24,6 +24,10 @@ a {
     color: #006633;
 }
 
+footer {
+    display: none;
+}
+
 .site-header {
     background-color: #006633;
     background-image: url("../../uploads/2020/04/PF_Header.png");
